@@ -10,7 +10,7 @@ import (
 	"github.com/xh3b4sd/logger"
 	"github.com/xh3b4sd/tracer"
 
-	"github.com/xh3b4sd/enc/pkg/project"
+	"github.com/xh3b4sd/red/pkg/project"
 )
 
 type runner struct {

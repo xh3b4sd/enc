@@ -7,7 +7,7 @@ import (
 	"github.com/xh3b4sd/logger"
 	"github.com/xh3b4sd/tracer"
 
-	"github.com/xh3b4sd/enc/cmd"
+	"github.com/xh3b4sd/red/cmd"
 )
 
 func main() {

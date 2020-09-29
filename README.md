@@ -1,3 +1,3 @@
-# enc
+# red
 
 Managing gpg messages and rsa keys.

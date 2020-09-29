@@ -1,4 +1,4 @@
-module github.com/xh3b4sd/enc
+module github.com/xh3b4sd/red
 
 go 1.15
 
