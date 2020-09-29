@@ -1,4 +1,4 @@
-module github.com/xh3b4sd/pag
+module github.com/xh3b4sd/enc
 
 go 1.15
 

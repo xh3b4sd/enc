@@ -5,10 +5,10 @@ import (
 	"github.com/xh3b4sd/logger"
 	"github.com/xh3b4sd/tracer"
 
-	"github.com/xh3b4sd/pag/cmd/completion"
-	"github.com/xh3b4sd/pag/cmd/generate"
-	"github.com/xh3b4sd/pag/cmd/version"
-	"github.com/xh3b4sd/pag/pkg/project"
+	"github.com/xh3b4sd/enc/cmd/completion"
+	"github.com/xh3b4sd/enc/cmd/generate"
+	"github.com/xh3b4sd/enc/cmd/version"
+	"github.com/xh3b4sd/enc/pkg/project"
 )
 
 var (
