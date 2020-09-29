@@ -1,2 +1,3 @@
 # enc
-managing gpg messages and rsa keys
+
+Managing gpg messages and rsa keys.
