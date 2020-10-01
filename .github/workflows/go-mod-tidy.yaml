@@ -11,6 +11,8 @@ on:
   push:
     branches:
       - 'dependabot/**'
+    paths:
+    - 'go.mod'
 
 jobs:
   go-mod-tidy:
@@ -19,6 +21,11 @@ jobs:
 
       - name: Checkout Git Project
         uses: actions/checkout@v2
+
+      - name: Setup Go Env
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.15.2'
 
       - name: Decrypt Private Key
         run: |
