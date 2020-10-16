@@ -40,8 +40,8 @@ as described below.
 The example below shows how to encrypt a secret that is provided via stdin.
 Upon execution of the command below the program will wait for any input made.
 Once the [enter] key is pressed the command stops accepting input and uses
-the provided secret data to encrypt it. The encrypted GPG message is then
-written to the file "key.enc".
+the provided secret data to encrypt it. The encrypted GPG message is written
+to the configured output file.
 
     red encrypt -i - -o key.enc -p ********
 
