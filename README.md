@@ -7,7 +7,7 @@ Managing gpg messages and rsa keys.
 ### Project Installation
 
 ```
-go get https://github.com/xh3b4sd/red
+go get github.com/xh3b4sd/red
 ```
 
 
