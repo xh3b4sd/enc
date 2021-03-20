@@ -1,6 +1,6 @@
 module github.com/xh3b4sd/red
 
-go 1.15
+go 1.16
 
 require (
 	github.com/spf13/afero v1.5.1
