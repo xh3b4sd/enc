@@ -169,8 +169,9 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
-github.com/xh3b4sd/budget v0.2.0 h1:xqnGRFwrwXW/hJnf5SCatXIVp/iHfC4ZFVYGmYZmT2Q=
 github.com/xh3b4sd/budget v0.2.0/go.mod h1:u4Ci+UNDDCeDNjEOCPYQduvWg+T4G8frIYDxs/YG/ss=
+github.com/xh3b4sd/budget v0.2.1 h1:wn1s+MpnJPfusLN28jH7cH2v4SeP0ldmmwU6H6FRARI=
+github.com/xh3b4sd/budget v0.2.1/go.mod h1:Qq5YihqFy2k1Q3TX+QhlPQYlLtA98ZxNwkWiX72mlAU=
 github.com/xh3b4sd/gpg v0.1.0 h1:II6X32thye0TGIbwYztiij3l6Sb93rsyHPkxySEkE6g=
 github.com/xh3b4sd/gpg v0.1.0/go.mod h1:lbPXtje17I0Hdf7V+ljUKdvYUyjDCpMPlNVUmF5ilKI=
 github.com/xh3b4sd/logger v0.2.0 h1:IAMhu5QB/HHucgX/tiNRl7/Of7Gq3bSZ4NBCtnFIh48=
