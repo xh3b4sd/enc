@@ -9,6 +9,6 @@ require (
 	github.com/xh3b4sd/gpg v0.1.0
 	github.com/xh3b4sd/logger v0.1.2
 	github.com/xh3b4sd/random v0.2.0
-	github.com/xh3b4sd/tracer v0.3.1
+	github.com/xh3b4sd/tracer v0.4.0
 	golang.org/x/crypto v0.0.0-20201012173705-84dcc777aaee
 )
