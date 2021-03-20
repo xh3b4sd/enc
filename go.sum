@@ -172,8 +172,8 @@ github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1
 github.com/xh3b4sd/budget v0.2.0/go.mod h1:u4Ci+UNDDCeDNjEOCPYQduvWg+T4G8frIYDxs/YG/ss=
 github.com/xh3b4sd/budget v0.2.1 h1:wn1s+MpnJPfusLN28jH7cH2v4SeP0ldmmwU6H6FRARI=
 github.com/xh3b4sd/budget v0.2.1/go.mod h1:Qq5YihqFy2k1Q3TX+QhlPQYlLtA98ZxNwkWiX72mlAU=
-github.com/xh3b4sd/gpg v0.1.0 h1:II6X32thye0TGIbwYztiij3l6Sb93rsyHPkxySEkE6g=
-github.com/xh3b4sd/gpg v0.1.0/go.mod h1:lbPXtje17I0Hdf7V+ljUKdvYUyjDCpMPlNVUmF5ilKI=
+github.com/xh3b4sd/gpg v0.1.1 h1:koFyUsqL5xhKOYYELtsdOoKLnc8VN1DbLvvbWTH5MHk=
+github.com/xh3b4sd/gpg v0.1.1/go.mod h1:E5XSwXj9TC7qZzLhxr34w5OrnMLKhGqcrsESkboaGs0=
 github.com/xh3b4sd/logger v0.2.0 h1:IAMhu5QB/HHucgX/tiNRl7/Of7Gq3bSZ4NBCtnFIh48=
 github.com/xh3b4sd/logger v0.2.0/go.mod h1:mVsr+vC1BnsU4v5ZjNYWfLM0SYVxNs9M9neRTOV9RJU=
 github.com/xh3b4sd/random v0.2.0 h1:LTLeb4xDI9Fl8uDZtbbitTKoXidxyrh364xS7O/MthU=
